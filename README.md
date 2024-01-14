@@ -1,1 +1,1 @@
-# Quora-Search
+Quora Search is a comprehensive automation testing initiative designed to assess and validate the functionality of the search feature on the Quora platform. The project aims to identify and eliminate potential issues, ensuring a smooth and user-friendly search experience for Quora users.
